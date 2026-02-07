@@ -1,3 +1,3 @@
 # BidHub
 
-- An online bidding platform built for perosnal project
+- An online bidding platform built for personal project
